@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>
+        Setting width and height of image
+    </title>
+</head>
+<body>
+    <p> Setting width and height of image</p>
+    <img src=
+"https://media.geeksforgeeks.org/wp-content/cdn-uploads/20190710102234/download3.png"
+        alt="GeeksforGeeks logo" 
+        width="300" 
+        height="300" />
+</body>
+</html>
